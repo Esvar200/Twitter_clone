@@ -17,8 +17,8 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/Twitter_Clone_ReactJS.git
-    cd Twitter_Clone_ReactJS
+    git clone https://github.com/Esvar200/Twitter_clone.git
+    cd Twitter_clone
     ```
 
 2. **Navigate to the `src` Directory**:
